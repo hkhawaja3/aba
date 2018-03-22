@@ -900,3 +900,11 @@ opacity: .5; }
     td.rank {
         text-transform: capitalize;
     }
+
+    
+    .scoreimage{
+        display:block;
+        margin-left:auto;
+        margin-right: auto;
+        
+    }
