@@ -906,4 +906,15 @@ opacity: .5; }
         padding-bottom: 40px;
 
     }
+
+    .item img {
+        width: 100%;
+        height: 100%;
+    }
+
+    #myCarousel{
+        height:600px;
+        width:600px;
+        margin: 0 auto;
+    }
       
